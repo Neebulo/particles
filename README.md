@@ -1,6 +1,6 @@
 ## Particles
 
-Bootsnip recreation of a particle background
+Bootsnipp recreation of a particle background
 
 ### MINIMUM VIABLE PRODUCT
 - particle background design
@@ -18,12 +18,10 @@ Bootsnip recreation of a particle background
 * BootStrap library in assets
 
 ##### WIREFRAME
-| Page View                                       | Page View when an 'enter event' clicked   |
-|-------------------------------------------------|-------------------------------------------|
-| ![ShowWeet_Front](http://gph.to/1Oiwvkz)        |![ShowWeet_In_Event](http://gph.to/1PQHKkM)|
-|                                                 |                                           |
-| Page View when a 'discuss' button is clicked    | Login View                                |  
-| ![ShowWeet_In_Single_App](http://gph.to/1hIjzKe)| ![ShowWeet_Login](http://gph.to/1KvPDy0)  |
+| Page View                                       |
+|-------------------------------------------------|
+| ![particles_view](http://bit.ly/1gECG74)        |
+|                                                 |
 
 ----
 
