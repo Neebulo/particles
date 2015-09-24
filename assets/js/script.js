@@ -52,7 +52,7 @@ $(function(){
         dotColor: '#eee',
         lineColor: '#eee',
         particleRadius: 7, // Dot size
-        lineWidth: 1,
+        lineWidth: .3,
         curvedLines: false,
         proximity: 100, // How close two dots need to be before they join
         parallax: true
