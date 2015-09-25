@@ -51,7 +51,7 @@ $(function(){
         density: 10000, // How many particles will be generated: one particle every n pixels
         dotColor: '#eee',
         lineColor: '#eee',
-        particleRadius: 7, // Dot size
+        particleRadius: 13, // Dot size
         lineWidth: .3,
         curvedLines: false,
         proximity: 100, // How close two dots need to be before they join
