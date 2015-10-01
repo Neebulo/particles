@@ -46,7 +46,7 @@ $(function(){
         maxSpeedX: 0.7,
         minSpeedY: 0.1,
         maxSpeedY: 0.7,
-        directionX: 'center', // 'center', 'left' or 'right'. 'center' = dots bounce off edges
+        directionX: 'right', // 'center', 'left' or 'right'. 'center' = dots bounce off edges
         directionY: 'up', // 'center', 'up' or 'down'. 'center' = dots bounce off edges
         density: 6660, // How many particles will be generated: one particle every n pixels
         dotColor: '#14805D',
